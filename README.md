@@ -1,7 +1,7 @@
 # Hi 👋, I'm Kevin
 ## Web Developer from Germany
 
-- 💬 Ask me about **web development, Shopware or some music stuff**
+- 💬 Ask me about **web development, or some music stuff**
 
 - 👨🏼‍🎓 I'm currently learnin about **cool new stuff 🤓**
 
